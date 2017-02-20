@@ -1,0 +1,9 @@
+{
+  "damage1_workflow.damage1.input_bam": "gs://5aa919de-0aa0-43ec-9ec3-288481102b6d/tcga/THCA/DNA/WXS/BI/ILLUMINA/C499.TCGA-DJ-A2QB-01A-11D-A19J-08.2.bam",
+  "damage1_workflow.damage1.input_bai": "gs://5aa919de-0aa0-43ec-9ec3-288481102b6d/tcga/THCA/DNA/WXS/BI/ILLUMINA/C499.TCGA-DJ-A2QB-01A-11D-A19J-08.2.bam.bai",
+  "damage1_workflow.damage1.id": "TCGA-DJ-A2QB-01A",
+  "damage1_workflow.damage1.genome": "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.fasta",
+  "damage1_workflow.damage1.genome_dict": "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.dict",
+  "damage1_workflow.damage1.genome_index": "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.fasta.fai",
+  "damage1_workflow.damage1.preemptible_limit": "4"
+}

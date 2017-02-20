@@ -1,0 +1,10 @@
+{
+  "Picard_SequencingMetrics_Workflow.Bam": "gs://5aa919de-0aa0-43ec-9ec3-288481102b6d/tcga/THCA/DNA/WXS/BI/ILLUMINA/C499.TCGA-DJ-A2QB-01A-11D-A19J-08.2.bam",
+  "Picard_SequencingMetrics_Workflow.DB_SNP_VCF_IDX": "gs://firecloud-tcga-open-access/tutorial/reference/dbsnp_134_b37.leftAligned.vcf.idx",
+  "Picard_SequencingMetrics_Workflow.PicardMetrics.id": "TCGA-DJ-A2QB-01A",
+  "Picard_SequencingMetrics_Workflow.DB_SNP_VCF": "gs://firecloud-tcga-open-access/tutorial/reference/dbsnp_134_b37.leftAligned.vcf",
+  "Picard_SequencingMetrics_Workflow.refFastaDict": "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.dict",
+  "Picard_SequencingMetrics_Workflow.refFasta": "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.fasta",
+  "Picard_SequencingMetrics_Workflow.refFastaIdx":  "gs://firecloud-tcga-open-access/tutorial/reference/Homo_sapiens_assembly19.fasta.fai",
+  "Picard_SequencingMetrics_Workflow.BamIdx": "gs://5aa919de-0aa0-43ec-9ec3-288481102b6d/tcga/THCA/DNA/WXS/BI/ILLUMINA/C499.TCGA-DJ-A2QB-01A-11D-A19J-08.2.bam.bai"
+}

@@ -1,5 +1,9 @@
-# Object file
-*.o
+**/test_output
+**/localized_inputs
+*.pyc
+**/.cache
+**/cromwell-workflow-logs
+**/build
+**/cromwell-executions
+**/inputs
 
-# Ada Library Information
-*.ali
