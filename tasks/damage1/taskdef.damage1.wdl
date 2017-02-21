@@ -14,11 +14,10 @@ task damage1 {
     String min_coverage_limit="1"
     String max_coverage_limit="500"
     String soft_masked="1"
-    String output_disk_gb = "1000"
-    String boot_disk_gb = "10"
-    String ram_gb = "8"
-    String cpu_cores = "2"
-
+    String output_disk_gb = "500"
+    String boot_disk_gb = "50"
+    String ram_gb = "4"
+    String cpu_cores = "1"
     command {
 python_cmd="
 import subprocess,os
